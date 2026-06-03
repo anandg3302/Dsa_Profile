@@ -1,18 +1,26 @@
 public class Solution {
-    public int[] twoSum(int[] numbers, int target) {
-        int start = 0;
-        int end = numbers.length - 1;
-        while (start < end) {
-            int sum = numbers[start] + numbers[end];
-            if (sum == target) {
-                return new int[] { start + 1, end + 1 };
-            }
-            if (sum < target) {
-                start++;
-            } else {
-                end--;
-            }
+
+	    public int[] twoSum(int[] nums, int target) {
+
+	        Map<Integer, Integer> h = new HashMap<>();
+
+	        for (int i = 0; i < nums.length; i++) {
+
+	            h.put(nums[i], i);
+
+	        }
+	        for (int i = 0; i < nums.length; i++) {
+
+	            int y = target - nums[i];
+
+	            if (h.containsKey(y) && h.get(y) != i) {
+
+	                return new int[] {i+1, h.get(y)+1};
+
+	            }
+
+	        }
+              throw new IllegalArgumentException("No two sum solution");
         }
-        throw new IllegalArgumentException("No valid pair found for the given target");
-    }
-}
+
+	}
