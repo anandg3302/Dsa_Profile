@@ -6,6 +6,7 @@
 | ------- |
 | [0015-3sum](https://github.com/anandg3302/Dsa_Profile/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/anandg3302/Dsa_Profile/tree/master/0016-3sum-closest) |
+| [0051-n-queens](https://github.com/anandg3302/Dsa_Profile/tree/master/0051-n-queens) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anandg3302/Dsa_Profile/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/anandg3302/Dsa_Profile/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/anandg3302/Dsa_Profile/tree/master/0239-sliding-window-maximum) |
@@ -88,4 +89,8 @@
 | [0183-customers-who-never-order](https://github.com/anandg3302/Dsa_Profile/tree/master/0183-customers-who-never-order) |
 | [0620-not-boring-movies](https://github.com/anandg3302/Dsa_Profile/tree/master/0620-not-boring-movies) |
 | [1683-invalid-tweets](https://github.com/anandg3302/Dsa_Profile/tree/master/1683-invalid-tweets) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/anandg3302/Dsa_Profile/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
