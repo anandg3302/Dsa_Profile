@@ -8,6 +8,7 @@
 | [0016-3sum-closest](https://github.com/anandg3302/Dsa_Profile/tree/master/0016-3sum-closest) |
 | [0051-n-queens](https://github.com/anandg3302/Dsa_Profile/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/anandg3302/Dsa_Profile/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/anandg3302/Dsa_Profile/tree/master/0066-plus-one) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anandg3302/Dsa_Profile/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/anandg3302/Dsa_Profile/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/anandg3302/Dsa_Profile/tree/master/0239-sliding-window-maximum) |
@@ -19,6 +20,7 @@
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/anandg3302/Dsa_Profile/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/anandg3302/Dsa_Profile/tree/master/0202-happy-number) |
 | [1390-four-divisors](https://github.com/anandg3302/Dsa_Profile/tree/master/1390-four-divisors) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/anandg3302/Dsa_Profile/tree/master/3751-total-waviness-of-numbers-in-range-i) |
