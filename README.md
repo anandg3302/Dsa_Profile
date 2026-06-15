@@ -67,6 +67,7 @@
 | [0016-3sum-closest](https://github.com/anandg3302/Dsa_Profile/tree/master/0016-3sum-closest) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anandg3302/Dsa_Profile/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/anandg3302/Dsa_Profile/tree/master/0202-happy-number) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/anandg3302/Dsa_Profile/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/anandg3302/Dsa_Profile/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Hash Table
 |  |
@@ -117,4 +118,8 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/anandg3302/Dsa_Profile/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/anandg3302/Dsa_Profile/tree/master/0073-set-matrix-zeroes) |
+## Linked List
+|  |
+| ------- |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/anandg3302/Dsa_Profile/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
