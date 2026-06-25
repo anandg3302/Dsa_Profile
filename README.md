@@ -11,6 +11,7 @@
 | [0056-merge-intervals](https://github.com/anandg3302/Dsa_Profile/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/anandg3302/Dsa_Profile/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/anandg3302/Dsa_Profile/tree/master/0073-set-matrix-zeroes) |
+| [0135-candy](https://github.com/anandg3302/Dsa_Profile/tree/master/0135-candy) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anandg3302/Dsa_Profile/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/anandg3302/Dsa_Profile/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/anandg3302/Dsa_Profile/tree/master/0239-sliding-window-maximum) |
@@ -39,6 +40,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/anandg3302/Dsa_Profile/tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/anandg3302/Dsa_Profile/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/anandg3302/Dsa_Profile/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/anandg3302/Dsa_Profile/tree/master/0455-assign-cookies) |
