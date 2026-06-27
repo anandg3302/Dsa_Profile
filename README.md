@@ -9,6 +9,7 @@
 | [0051-n-queens](https://github.com/anandg3302/Dsa_Profile/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/anandg3302/Dsa_Profile/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/anandg3302/Dsa_Profile/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/anandg3302/Dsa_Profile/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/anandg3302/Dsa_Profile/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/anandg3302/Dsa_Profile/tree/master/0073-set-matrix-zeroes) |
 | [0134-gas-station](https://github.com/anandg3302/Dsa_Profile/tree/master/0134-gas-station) |
