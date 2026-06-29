@@ -8,6 +8,7 @@
 | [0016-3sum-closest](https://github.com/anandg3302/Dsa_Profile/tree/master/0016-3sum-closest) |
 | [0039-combination-sum](https://github.com/anandg3302/Dsa_Profile/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/anandg3302/Dsa_Profile/tree/master/0040-combination-sum-ii) |
+| [0047-permutations-ii](https://github.com/anandg3302/Dsa_Profile/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/anandg3302/Dsa_Profile/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/anandg3302/Dsa_Profile/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/anandg3302/Dsa_Profile/tree/master/0056-merge-intervals) |
@@ -141,6 +142,7 @@
 | ------- |
 | [0015-3sum](https://github.com/anandg3302/Dsa_Profile/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/anandg3302/Dsa_Profile/tree/master/0016-3sum-closest) |
+| [0047-permutations-ii](https://github.com/anandg3302/Dsa_Profile/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/anandg3302/Dsa_Profile/tree/master/0056-merge-intervals) |
 | [0435-non-overlapping-intervals](https://github.com/anandg3302/Dsa_Profile/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/anandg3302/Dsa_Profile/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -162,6 +164,7 @@
 | ------- |
 | [0039-combination-sum](https://github.com/anandg3302/Dsa_Profile/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/anandg3302/Dsa_Profile/tree/master/0040-combination-sum-ii) |
+| [0047-permutations-ii](https://github.com/anandg3302/Dsa_Profile/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/anandg3302/Dsa_Profile/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/anandg3302/Dsa_Profile/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/anandg3302/Dsa_Profile/tree/master/0216-combination-sum-iii) |
