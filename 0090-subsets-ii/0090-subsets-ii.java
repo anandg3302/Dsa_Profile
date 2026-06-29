@@ -12,10 +12,7 @@ class Solution {
     }
 
     public void backtrack(int index, int[] nums, List<Integer> current, List<List<Integer>> ans) {
-        List<Integer> copy = new ArrayList<>();
-        for (int i = 0; i < current.size(); i++) {
-            copy.add(current.get(i));
-        }
+        List<Integer> copy = new ArrayList<>(current);
         ans.add(copy);
         
         for (int i = index; i < nums.length; i++) {
