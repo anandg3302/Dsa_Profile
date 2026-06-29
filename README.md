@@ -25,6 +25,7 @@
 | [1029-two-city-scheduling](https://github.com/anandg3302/Dsa_Profile/tree/master/1029-two-city-scheduling) |
 | [1390-four-divisors](https://github.com/anandg3302/Dsa_Profile/tree/master/1390-four-divisors) |
 | [1732-find-the-highest-altitude](https://github.com/anandg3302/Dsa_Profile/tree/master/1732-find-the-highest-altitude) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/anandg3302/Dsa_Profile/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/anandg3302/Dsa_Profile/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/anandg3302/Dsa_Profile/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/anandg3302/Dsa_Profile/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -108,6 +109,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anandg3302/Dsa_Profile/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/anandg3302/Dsa_Profile/tree/master/0076-minimum-window-substring) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/anandg3302/Dsa_Profile/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3612-process-string-with-special-operations-i](https://github.com/anandg3302/Dsa_Profile/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/anandg3302/Dsa_Profile/tree/master/3838-weighted-word-mapping) |
 ## Dynamic Programming
