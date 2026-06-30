@@ -43,6 +43,7 @@
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/anandg3302/Dsa_Profile/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/anandg3302/Dsa_Profile/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/anandg3302/Dsa_Profile/tree/master/0202-happy-number) |
 | [0507-perfect-number](https://github.com/anandg3302/Dsa_Profile/tree/master/0507-perfect-number) |
@@ -128,6 +129,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/anandg3302/Dsa_Profile/tree/master/0062-unique-paths) |
 | [0435-non-overlapping-intervals](https://github.com/anandg3302/Dsa_Profile/tree/master/0435-non-overlapping-intervals) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/anandg3302/Dsa_Profile/tree/master/0871-minimum-number-of-refueling-stops) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/anandg3302/Dsa_Profile/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -195,4 +197,8 @@
 | [0191-number-of-1-bits](https://github.com/anandg3302/Dsa_Profile/tree/master/0191-number-of-1-bits) |
 | [0476-number-complement](https://github.com/anandg3302/Dsa_Profile/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/anandg3302/Dsa_Profile/tree/master/0645-set-mismatch) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/anandg3302/Dsa_Profile/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
