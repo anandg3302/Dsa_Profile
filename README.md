@@ -48,6 +48,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/anandg3302/Dsa_Profile/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/anandg3302/Dsa_Profile/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/anandg3302/Dsa_Profile/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/anandg3302/Dsa_Profile/tree/master/0202-happy-number) |
 | [0507-perfect-number](https://github.com/anandg3302/Dsa_Profile/tree/master/0507-perfect-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/anandg3302/Dsa_Profile/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -135,6 +136,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/anandg3302/Dsa_Profile/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/anandg3302/Dsa_Profile/tree/master/0063-unique-paths-ii) |
+| [0070-climbing-stairs](https://github.com/anandg3302/Dsa_Profile/tree/master/0070-climbing-stairs) |
 | [0435-non-overlapping-intervals](https://github.com/anandg3302/Dsa_Profile/tree/master/0435-non-overlapping-intervals) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/anandg3302/Dsa_Profile/tree/master/0871-minimum-number-of-refueling-stops) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/anandg3302/Dsa_Profile/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -215,4 +217,8 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/anandg3302/Dsa_Profile/tree/master/0079-word-search) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/anandg3302/Dsa_Profile/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
