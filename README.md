@@ -16,6 +16,7 @@
 | [0063-unique-paths-ii](https://github.com/anandg3302/Dsa_Profile/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/anandg3302/Dsa_Profile/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/anandg3302/Dsa_Profile/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/anandg3302/Dsa_Profile/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/anandg3302/Dsa_Profile/tree/master/0090-subsets-ii) |
 | [0134-gas-station](https://github.com/anandg3302/Dsa_Profile/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/anandg3302/Dsa_Profile/tree/master/0135-candy) |
@@ -125,6 +126,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/anandg3302/Dsa_Profile/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/anandg3302/Dsa_Profile/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0076-minimum-window-substring](https://github.com/anandg3302/Dsa_Profile/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/anandg3302/Dsa_Profile/tree/master/0079-word-search) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/anandg3302/Dsa_Profile/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3612-process-string-with-special-operations-i](https://github.com/anandg3302/Dsa_Profile/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/anandg3302/Dsa_Profile/tree/master/3838-weighted-word-mapping) |
@@ -178,6 +180,7 @@
 | [0040-combination-sum-ii](https://github.com/anandg3302/Dsa_Profile/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/anandg3302/Dsa_Profile/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/anandg3302/Dsa_Profile/tree/master/0051-n-queens) |
+| [0079-word-search](https://github.com/anandg3302/Dsa_Profile/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/anandg3302/Dsa_Profile/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/anandg3302/Dsa_Profile/tree/master/0216-combination-sum-iii) |
 | [1219-path-with-maximum-gold](https://github.com/anandg3302/Dsa_Profile/tree/master/1219-path-with-maximum-gold) |
@@ -187,6 +190,7 @@
 | [0054-spiral-matrix](https://github.com/anandg3302/Dsa_Profile/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/anandg3302/Dsa_Profile/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/anandg3302/Dsa_Profile/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/anandg3302/Dsa_Profile/tree/master/0079-word-search) |
 | [1219-path-with-maximum-gold](https://github.com/anandg3302/Dsa_Profile/tree/master/1219-path-with-maximum-gold) |
 ## Linked List
 |  |
@@ -207,4 +211,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/anandg3302/Dsa_Profile/tree/master/0062-unique-paths) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/anandg3302/Dsa_Profile/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
