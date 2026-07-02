@@ -31,6 +31,7 @@
 | [0860-lemonade-change](https://github.com/anandg3302/Dsa_Profile/tree/master/0860-lemonade-change) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/anandg3302/Dsa_Profile/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1029-two-city-scheduling](https://github.com/anandg3302/Dsa_Profile/tree/master/1029-two-city-scheduling) |
+| [1219-path-with-maximum-gold](https://github.com/anandg3302/Dsa_Profile/tree/master/1219-path-with-maximum-gold) |
 | [1390-four-divisors](https://github.com/anandg3302/Dsa_Profile/tree/master/1390-four-divisors) |
 | [1732-find-the-highest-altitude](https://github.com/anandg3302/Dsa_Profile/tree/master/1732-find-the-highest-altitude) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/anandg3302/Dsa_Profile/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -179,12 +180,14 @@
 | [0051-n-queens](https://github.com/anandg3302/Dsa_Profile/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/anandg3302/Dsa_Profile/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/anandg3302/Dsa_Profile/tree/master/0216-combination-sum-iii) |
+| [1219-path-with-maximum-gold](https://github.com/anandg3302/Dsa_Profile/tree/master/1219-path-with-maximum-gold) |
 ## Matrix
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/anandg3302/Dsa_Profile/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/anandg3302/Dsa_Profile/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/anandg3302/Dsa_Profile/tree/master/0073-set-matrix-zeroes) |
+| [1219-path-with-maximum-gold](https://github.com/anandg3302/Dsa_Profile/tree/master/1219-path-with-maximum-gold) |
 ## Linked List
 |  |
 | ------- |
