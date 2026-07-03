@@ -131,6 +131,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anandg3302/Dsa_Profile/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/anandg3302/Dsa_Profile/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/anandg3302/Dsa_Profile/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/anandg3302/Dsa_Profile/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/anandg3302/Dsa_Profile/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/anandg3302/Dsa_Profile/tree/master/0091-decode-ways) |
@@ -141,6 +142,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/anandg3302/Dsa_Profile/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/anandg3302/Dsa_Profile/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/anandg3302/Dsa_Profile/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/anandg3302/Dsa_Profile/tree/master/0064-minimum-path-sum) |
@@ -189,6 +191,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/anandg3302/Dsa_Profile/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/anandg3302/Dsa_Profile/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/anandg3302/Dsa_Profile/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/anandg3302/Dsa_Profile/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/anandg3302/Dsa_Profile/tree/master/0047-permutations-ii) |
