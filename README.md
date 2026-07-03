@@ -17,6 +17,7 @@
 | [0064-minimum-path-sum](https://github.com/anandg3302/Dsa_Profile/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/anandg3302/Dsa_Profile/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/anandg3302/Dsa_Profile/tree/master/0073-set-matrix-zeroes) |
+| [0078-subsets](https://github.com/anandg3302/Dsa_Profile/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/anandg3302/Dsa_Profile/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/anandg3302/Dsa_Profile/tree/master/0090-subsets-ii) |
 | [0134-gas-station](https://github.com/anandg3302/Dsa_Profile/tree/master/0134-gas-station) |
@@ -190,6 +191,7 @@
 | [0040-combination-sum-ii](https://github.com/anandg3302/Dsa_Profile/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/anandg3302/Dsa_Profile/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/anandg3302/Dsa_Profile/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/anandg3302/Dsa_Profile/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/anandg3302/Dsa_Profile/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/anandg3302/Dsa_Profile/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/anandg3302/Dsa_Profile/tree/master/0216-combination-sum-iii) |
@@ -214,6 +216,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/anandg3302/Dsa_Profile/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/anandg3302/Dsa_Profile/tree/master/0090-subsets-ii) |
 | [0191-number-of-1-bits](https://github.com/anandg3302/Dsa_Profile/tree/master/0191-number-of-1-bits) |
 | [0476-number-complement](https://github.com/anandg3302/Dsa_Profile/tree/master/0476-number-complement) |
