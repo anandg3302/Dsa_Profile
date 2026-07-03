@@ -8,6 +8,7 @@
 | [0016-3sum-closest](https://github.com/anandg3302/Dsa_Profile/tree/master/0016-3sum-closest) |
 | [0039-combination-sum](https://github.com/anandg3302/Dsa_Profile/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/anandg3302/Dsa_Profile/tree/master/0040-combination-sum-ii) |
+| [0045-jump-game-ii](https://github.com/anandg3302/Dsa_Profile/tree/master/0045-jump-game-ii) |
 | [0047-permutations-ii](https://github.com/anandg3302/Dsa_Profile/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/anandg3302/Dsa_Profile/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/anandg3302/Dsa_Profile/tree/master/0054-spiral-matrix) |
@@ -62,6 +63,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/anandg3302/Dsa_Profile/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/anandg3302/Dsa_Profile/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/anandg3302/Dsa_Profile/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/anandg3302/Dsa_Profile/tree/master/0135-candy) |
@@ -145,6 +147,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/anandg3302/Dsa_Profile/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/anandg3302/Dsa_Profile/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/anandg3302/Dsa_Profile/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/anandg3302/Dsa_Profile/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/anandg3302/Dsa_Profile/tree/master/0063-unique-paths-ii) |
