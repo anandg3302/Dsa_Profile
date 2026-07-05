@@ -188,6 +188,7 @@
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/anandg3302/Dsa_Profile/tree/master/0175-combine-two-tables) |
 | [0183-customers-who-never-order](https://github.com/anandg3302/Dsa_Profile/tree/master/0183-customers-who-never-order) |
 | [0196-delete-duplicate-emails](https://github.com/anandg3302/Dsa_Profile/tree/master/0196-delete-duplicate-emails) |
 | [0620-not-boring-movies](https://github.com/anandg3302/Dsa_Profile/tree/master/0620-not-boring-movies) |
