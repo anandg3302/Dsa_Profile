@@ -40,6 +40,7 @@
 | [0980-unique-paths-iii](https://github.com/anandg3302/Dsa_Profile/tree/master/0980-unique-paths-iii) |
 | [1029-two-city-scheduling](https://github.com/anandg3302/Dsa_Profile/tree/master/1029-two-city-scheduling) |
 | [1219-path-with-maximum-gold](https://github.com/anandg3302/Dsa_Profile/tree/master/1219-path-with-maximum-gold) |
+| [1288-remove-covered-intervals](https://github.com/anandg3302/Dsa_Profile/tree/master/1288-remove-covered-intervals) |
 | [1390-four-divisors](https://github.com/anandg3302/Dsa_Profile/tree/master/1390-four-divisors) |
 | [1732-find-the-highest-altitude](https://github.com/anandg3302/Dsa_Profile/tree/master/1732-find-the-highest-altitude) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/anandg3302/Dsa_Profile/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -184,6 +185,7 @@
 | [0502-ipo](https://github.com/anandg3302/Dsa_Profile/tree/master/0502-ipo) |
 | [0645-set-mismatch](https://github.com/anandg3302/Dsa_Profile/tree/master/0645-set-mismatch) |
 | [1029-two-city-scheduling](https://github.com/anandg3302/Dsa_Profile/tree/master/1029-two-city-scheduling) |
+| [1288-remove-covered-intervals](https://github.com/anandg3302/Dsa_Profile/tree/master/1288-remove-covered-intervals) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/anandg3302/Dsa_Profile/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2784-check-if-array-is-good](https://github.com/anandg3302/Dsa_Profile/tree/master/2784-check-if-array-is-good) |
 ## Database
