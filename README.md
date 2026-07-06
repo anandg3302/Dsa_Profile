@@ -37,6 +37,7 @@
 | [0645-set-mismatch](https://github.com/anandg3302/Dsa_Profile/tree/master/0645-set-mismatch) |
 | [0860-lemonade-change](https://github.com/anandg3302/Dsa_Profile/tree/master/0860-lemonade-change) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/anandg3302/Dsa_Profile/tree/master/0871-minimum-number-of-refueling-stops) |
+| [0980-unique-paths-iii](https://github.com/anandg3302/Dsa_Profile/tree/master/0980-unique-paths-iii) |
 | [1029-two-city-scheduling](https://github.com/anandg3302/Dsa_Profile/tree/master/1029-two-city-scheduling) |
 | [1219-path-with-maximum-gold](https://github.com/anandg3302/Dsa_Profile/tree/master/1219-path-with-maximum-gold) |
 | [1390-four-divisors](https://github.com/anandg3302/Dsa_Profile/tree/master/1390-four-divisors) |
@@ -208,6 +209,7 @@
 | [0079-word-search](https://github.com/anandg3302/Dsa_Profile/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/anandg3302/Dsa_Profile/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/anandg3302/Dsa_Profile/tree/master/0216-combination-sum-iii) |
+| [0980-unique-paths-iii](https://github.com/anandg3302/Dsa_Profile/tree/master/0980-unique-paths-iii) |
 | [1219-path-with-maximum-gold](https://github.com/anandg3302/Dsa_Profile/tree/master/1219-path-with-maximum-gold) |
 ## Matrix
 |  |
@@ -217,6 +219,7 @@
 | [0064-minimum-path-sum](https://github.com/anandg3302/Dsa_Profile/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/anandg3302/Dsa_Profile/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/anandg3302/Dsa_Profile/tree/master/0079-word-search) |
+| [0980-unique-paths-iii](https://github.com/anandg3302/Dsa_Profile/tree/master/0980-unique-paths-iii) |
 | [1219-path-with-maximum-gold](https://github.com/anandg3302/Dsa_Profile/tree/master/1219-path-with-maximum-gold) |
 ## Linked List
 |  |
@@ -234,6 +237,7 @@
 | [0191-number-of-1-bits](https://github.com/anandg3302/Dsa_Profile/tree/master/0191-number-of-1-bits) |
 | [0476-number-complement](https://github.com/anandg3302/Dsa_Profile/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/anandg3302/Dsa_Profile/tree/master/0645-set-mismatch) |
+| [0980-unique-paths-iii](https://github.com/anandg3302/Dsa_Profile/tree/master/0980-unique-paths-iii) |
 ## Combinatorics
 |  |
 | ------- |
