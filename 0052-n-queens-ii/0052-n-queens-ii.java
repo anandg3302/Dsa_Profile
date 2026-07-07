@@ -32,21 +32,21 @@ class Solution {
     }
 
     private boolean isSafe(int row, int col, char[][] board, int n) {
-        // 1. Check straight up
+        // Check straight up
         for (int i = row - 1; i >= 0; i--) {
             if (board[i][col] == 'Q') {
                 return false;
             }
         }
 
-        // 2. Check top-left diagonal 
+        // Check top left diagonal 
         for (int i = row - 1, j = col - 1; i >= 0 && j >= 0; i--, j--) {
             if (board[i][j] == 'Q') {
                 return false;
             }
         }
 
-        // 3. Check top-right diagonal 
+        // Check top right diagonal 
         for (int i = row - 1, j = col + 1; i >= 0 && j < n; i--, j++) {
             if (board[i][j] == 'Q') {
                 return false;
