@@ -15,7 +15,7 @@ class Solution {
         return ans;
     }
     void backtrack(int row, char[][] board, List<List<String>> ans, int n) {
-        // Base Case: If we placed queens in all rows, construct the string board and save it
+        // If we placed queens in all rows, construct the string board and save it
         if (row == n) {
             ans.add(construct(board));
             return;
