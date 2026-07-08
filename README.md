@@ -50,6 +50,7 @@
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/anandg3302/Dsa_Profile/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/anandg3302/Dsa_Profile/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/anandg3302/Dsa_Profile/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/anandg3302/Dsa_Profile/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2574-left-and-right-sum-differences](https://github.com/anandg3302/Dsa_Profile/tree/master/2574-left-and-right-sum-differences) |
 | [2784-check-if-array-is-good](https://github.com/anandg3302/Dsa_Profile/tree/master/2784-check-if-array-is-good) |
 | [3689-maximum-total-subarray-value-i](https://github.com/anandg3302/Dsa_Profile/tree/master/3689-maximum-total-subarray-value-i) |
@@ -109,6 +110,7 @@
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anandg3302/Dsa_Profile/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/anandg3302/Dsa_Profile/tree/master/0209-minimum-size-subarray-sum) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/anandg3302/Dsa_Profile/tree/master/2563-count-the-number-of-fair-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -126,6 +128,7 @@
 | [0455-assign-cookies](https://github.com/anandg3302/Dsa_Profile/tree/master/0455-assign-cookies) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/anandg3302/Dsa_Profile/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/anandg3302/Dsa_Profile/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/anandg3302/Dsa_Profile/tree/master/2563-count-the-number-of-fair-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -198,6 +201,7 @@
 | [1288-remove-covered-intervals](https://github.com/anandg3302/Dsa_Profile/tree/master/1288-remove-covered-intervals) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/anandg3302/Dsa_Profile/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/anandg3302/Dsa_Profile/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/anandg3302/Dsa_Profile/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2784-check-if-array-is-good](https://github.com/anandg3302/Dsa_Profile/tree/master/2784-check-if-array-is-good) |
 ## Database
 |  |
