@@ -274,6 +274,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/anandg3302/Dsa_Profile/tree/master/0079-word-search) |
+| [0094-binary-tree-inorder-traversal](https://github.com/anandg3302/Dsa_Profile/tree/master/0094-binary-tree-inorder-traversal) |
 ## Memoization
 |  |
 | ------- |
@@ -285,6 +286,7 @@
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/anandg3302/Dsa_Profile/tree/master/0094-binary-tree-inorder-traversal) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/anandg3302/Dsa_Profile/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## String Matching
 |  |
@@ -294,4 +296,12 @@
 |  |
 | ------- |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/anandg3302/Dsa_Profile/tree/master/2423-remove-letter-to-equalize-frequency) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/anandg3302/Dsa_Profile/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/anandg3302/Dsa_Profile/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
