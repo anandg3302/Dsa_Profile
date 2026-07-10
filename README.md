@@ -282,6 +282,7 @@
 | ------- |
 | [0079-word-search](https://github.com/anandg3302/Dsa_Profile/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/anandg3302/Dsa_Profile/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/anandg3302/Dsa_Profile/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/anandg3302/Dsa_Profile/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/anandg3302/Dsa_Profile/tree/master/0145-binary-tree-postorder-traversal) |
 ## Memoization
@@ -292,6 +293,7 @@
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/anandg3302/Dsa_Profile/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/anandg3302/Dsa_Profile/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0322-coin-change](https://github.com/anandg3302/Dsa_Profile/tree/master/0322-coin-change) |
 ## Stack
 |  |
@@ -314,6 +316,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/anandg3302/Dsa_Profile/tree/master/0094-binary-tree-inorder-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/anandg3302/Dsa_Profile/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/anandg3302/Dsa_Profile/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/anandg3302/Dsa_Profile/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/anandg3302/Dsa_Profile/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
@@ -321,6 +324,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/anandg3302/Dsa_Profile/tree/master/0094-binary-tree-inorder-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/anandg3302/Dsa_Profile/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/anandg3302/Dsa_Profile/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/anandg3302/Dsa_Profile/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/anandg3302/Dsa_Profile/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
