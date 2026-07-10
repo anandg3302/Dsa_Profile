@@ -285,6 +285,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/anandg3302/Dsa_Profile/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/anandg3302/Dsa_Profile/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/anandg3302/Dsa_Profile/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/anandg3302/Dsa_Profile/tree/master/0543-diameter-of-binary-tree) |
 ## Memoization
 |  |
 | ------- |
@@ -319,6 +320,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/anandg3302/Dsa_Profile/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/anandg3302/Dsa_Profile/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/anandg3302/Dsa_Profile/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/anandg3302/Dsa_Profile/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -327,4 +329,5 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/anandg3302/Dsa_Profile/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/anandg3302/Dsa_Profile/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/anandg3302/Dsa_Profile/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/anandg3302/Dsa_Profile/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
