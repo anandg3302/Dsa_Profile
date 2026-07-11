@@ -112,6 +112,7 @@
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anandg3302/Dsa_Profile/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/anandg3302/Dsa_Profile/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/anandg3302/Dsa_Profile/tree/master/0222-count-complete-tree-nodes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anandg3302/Dsa_Profile/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/anandg3302/Dsa_Profile/tree/master/0532-k-diff-pairs-in-an-array) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/anandg3302/Dsa_Profile/tree/master/2563-count-the-number-of-fair-pairs) |
@@ -270,6 +271,7 @@
 | [0078-subsets](https://github.com/anandg3302/Dsa_Profile/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/anandg3302/Dsa_Profile/tree/master/0090-subsets-ii) |
 | [0191-number-of-1-bits](https://github.com/anandg3302/Dsa_Profile/tree/master/0191-number-of-1-bits) |
+| [0222-count-complete-tree-nodes](https://github.com/anandg3302/Dsa_Profile/tree/master/0222-count-complete-tree-nodes) |
 | [0476-number-complement](https://github.com/anandg3302/Dsa_Profile/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/anandg3302/Dsa_Profile/tree/master/0645-set-mismatch) |
 | [0980-unique-paths-iii](https://github.com/anandg3302/Dsa_Profile/tree/master/0980-unique-paths-iii) |
@@ -325,6 +327,7 @@
 | [0110-balanced-binary-tree](https://github.com/anandg3302/Dsa_Profile/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/anandg3302/Dsa_Profile/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/anandg3302/Dsa_Profile/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/anandg3302/Dsa_Profile/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/anandg3302/Dsa_Profile/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -336,5 +339,6 @@
 | [0110-balanced-binary-tree](https://github.com/anandg3302/Dsa_Profile/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/anandg3302/Dsa_Profile/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/anandg3302/Dsa_Profile/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/anandg3302/Dsa_Profile/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/anandg3302/Dsa_Profile/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
