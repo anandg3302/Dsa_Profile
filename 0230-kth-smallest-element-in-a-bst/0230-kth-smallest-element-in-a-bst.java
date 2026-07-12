@@ -17,27 +17,25 @@ import java.util.*;
 
 class Solution {
 
+    int count = 0;
+    int ans = 0;
+
     public int kthSmallest(TreeNode root, int k) {
-
-        PriorityQueue<TreeNode> pq =
-                new PriorityQueue<>((a, b) -> a.val - b.val);
-
-        traverse(root, pq);
-
-        for (int i = 1; i < k; i++) {
-            pq.poll();
-        }
-
-        return pq.poll().val;
+        inorder(root, k);
+        return ans;
     }
 
-    private void traverse(TreeNode root, PriorityQueue<TreeNode> pq) {
-        if (root == null)
+    private void inorder(TreeNode root, int k) {
+        if (root == null) return;
+
+        inorder(root.left, k);
+
+        count++;
+        if (count == k) {
+            ans = root.val;
             return;
+        }
 
-        pq.offer(root);
-
-        traverse(root.left, pq);
-        traverse(root.right, pq);
+        inorder(root.right, k);
     }
 }
