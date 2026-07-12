@@ -294,6 +294,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/anandg3302/Dsa_Profile/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/anandg3302/Dsa_Profile/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/anandg3302/Dsa_Profile/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/anandg3302/Dsa_Profile/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/anandg3302/Dsa_Profile/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/anandg3302/Dsa_Profile/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/anandg3302/Dsa_Profile/tree/master/0543-diameter-of-binary-tree) |
@@ -310,6 +311,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/anandg3302/Dsa_Profile/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/anandg3302/Dsa_Profile/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/anandg3302/Dsa_Profile/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/anandg3302/Dsa_Profile/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/anandg3302/Dsa_Profile/tree/master/0322-coin-change) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/anandg3302/Dsa_Profile/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Stack
@@ -341,6 +343,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/anandg3302/Dsa_Profile/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/anandg3302/Dsa_Profile/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/anandg3302/Dsa_Profile/tree/master/0222-count-complete-tree-nodes) |
+| [0226-invert-binary-tree](https://github.com/anandg3302/Dsa_Profile/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/anandg3302/Dsa_Profile/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/anandg3302/Dsa_Profile/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/anandg3302/Dsa_Profile/tree/master/0450-delete-node-in-a-bst) |
@@ -360,6 +363,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/anandg3302/Dsa_Profile/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/anandg3302/Dsa_Profile/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/anandg3302/Dsa_Profile/tree/master/0222-count-complete-tree-nodes) |
+| [0226-invert-binary-tree](https://github.com/anandg3302/Dsa_Profile/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/anandg3302/Dsa_Profile/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/anandg3302/Dsa_Profile/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/anandg3302/Dsa_Profile/tree/master/0450-delete-node-in-a-bst) |
