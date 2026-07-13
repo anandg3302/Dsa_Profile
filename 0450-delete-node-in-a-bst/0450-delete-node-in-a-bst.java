@@ -24,9 +24,9 @@ class Solution {
             root.right = deleteNode(root.right, key);
         } else {
             if(root.left == null && root.right == null) return null;
-            if(root.val == key && root.left != null && root.right == null) return root.left;
-            if(root.val == key && root.left == null && root.right != null) return root.right;
-            if(root.val == key && root.left!= null && root.right != null){
+            if( root.left != null && root.right == null) return root.left;
+            if( root.left == null && root.right != null) return root.right;
+            if( root.left!= null && root.right != null){
                 TreeNode node = DeleteNode(root.right);
                 root.val = node.val;
                 root.right = deleteNode(root.right, node.val);    
