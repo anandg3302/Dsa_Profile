@@ -65,6 +65,7 @@
 | [0066-plus-one](https://github.com/anandg3302/Dsa_Profile/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/anandg3302/Dsa_Profile/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/anandg3302/Dsa_Profile/tree/master/0202-happy-number) |
+| [0319-bulb-switcher](https://github.com/anandg3302/Dsa_Profile/tree/master/0319-bulb-switcher) |
 | [0507-perfect-number](https://github.com/anandg3302/Dsa_Profile/tree/master/0507-perfect-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/anandg3302/Dsa_Profile/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1390-four-divisors](https://github.com/anandg3302/Dsa_Profile/tree/master/1390-four-divisors) |
@@ -377,4 +378,8 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/anandg3302/Dsa_Profile/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/anandg3302/Dsa_Profile/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/anandg3302/Dsa_Profile/tree/master/0701-insert-into-a-binary-search-tree) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/anandg3302/Dsa_Profile/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
