@@ -301,6 +301,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/anandg3302/Dsa_Profile/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/anandg3302/Dsa_Profile/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/anandg3302/Dsa_Profile/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/anandg3302/Dsa_Profile/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Memoization
 |  |
 | ------- |
@@ -317,6 +318,7 @@
 | [0322-coin-change](https://github.com/anandg3302/Dsa_Profile/tree/master/0322-coin-change) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/anandg3302/Dsa_Profile/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/anandg3302/Dsa_Profile/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/anandg3302/Dsa_Profile/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Stack
 |  |
 | ------- |
@@ -354,6 +356,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/anandg3302/Dsa_Profile/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/anandg3302/Dsa_Profile/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/anandg3302/Dsa_Profile/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/anandg3302/Dsa_Profile/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Tree
 |  |
 | ------- |
@@ -375,6 +378,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/anandg3302/Dsa_Profile/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/anandg3302/Dsa_Profile/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/anandg3302/Dsa_Profile/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/anandg3302/Dsa_Profile/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -383,6 +387,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/anandg3302/Dsa_Profile/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/anandg3302/Dsa_Profile/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/anandg3302/Dsa_Profile/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/anandg3302/Dsa_Profile/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Brainteaser
 |  |
 | ------- |
