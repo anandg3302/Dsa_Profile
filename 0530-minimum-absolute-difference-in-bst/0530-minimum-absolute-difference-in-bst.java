@@ -13,36 +13,68 @@
  *     }
  * }
  */
+// class Solution {
+//     public int getMinimumDifference(TreeNode root) {
+//         if (root == null)
+//             return 0;
+
+//         Queue<TreeNode> qu = new LinkedList<>();
+//         List<Integer> list = new ArrayList<>();
+
+//         qu.offer(root);
+
+//         while (!qu.isEmpty()) {
+//             TreeNode curr = qu.poll();
+
+//             list.add(curr.val);
+
+//             if (curr.left != null)
+//                 qu.offer(curr.left);
+
+//             if (curr.right != null)
+//                 qu.offer(curr.right);
+//         }
+
+//         Collections.sort(list);
+
+//         int ans = Integer.MAX_VALUE;
+
+//         for (int i = 1; i < list.size(); i++) {
+//             ans = Math.min(ans, list.get(i) - list.get(i - 1));
+//         }
+
+//         return ans;
+//     }
+// }
+
+
 class Solution {
     public int getMinimumDifference(TreeNode root) {
-        if (root == null)
-            return 0;
 
-        Queue<TreeNode> qu = new LinkedList<>();
-        List<Integer> list = new ArrayList<>();
+        Stack<TreeNode> stack = new Stack<>();
+        TreeNode curr = root;
 
-        qu.offer(root);
+        Integer prev = null;
+        int minDiff = Integer.MAX_VALUE;
 
-        while (!qu.isEmpty()) {
-            TreeNode curr = qu.poll();
+        while (curr != null || !stack.isEmpty()) {
 
-            list.add(curr.val);
+            while (curr != null) {
+                stack.push(curr);
+                curr = curr.left;
+            }
 
-            if (curr.left != null)
-                qu.offer(curr.left);
+            curr = stack.pop();
 
-            if (curr.right != null)
-                qu.offer(curr.right);
+            if (prev != null) {
+                minDiff = Math.min(minDiff, curr.val - prev);
+            }
+
+            prev = curr.val;
+
+            curr = curr.right;
         }
 
-        Collections.sort(list);
-
-        int ans = Integer.MAX_VALUE;
-
-        for (int i = 1; i < list.size(); i++) {
-            ans = Math.min(ans, list.get(i) - list.get(i - 1));
-        }
-
-        return ans;
+        return minDiff;
     }
 }
