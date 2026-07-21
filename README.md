@@ -69,6 +69,7 @@
 | [0070-climbing-stairs](https://github.com/anandg3302/Dsa_Profile/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/anandg3302/Dsa_Profile/tree/master/0202-happy-number) |
 | [0319-bulb-switcher](https://github.com/anandg3302/Dsa_Profile/tree/master/0319-bulb-switcher) |
+| [0415-add-strings](https://github.com/anandg3302/Dsa_Profile/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/anandg3302/Dsa_Profile/tree/master/0507-perfect-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/anandg3302/Dsa_Profile/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1390-four-divisors](https://github.com/anandg3302/Dsa_Profile/tree/master/1390-four-divisors) |
@@ -175,6 +176,7 @@
 | [0079-word-search](https://github.com/anandg3302/Dsa_Profile/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/anandg3302/Dsa_Profile/tree/master/0091-decode-ways) |
 | [0205-isomorphic-strings](https://github.com/anandg3302/Dsa_Profile/tree/master/0205-isomorphic-strings) |
+| [0415-add-strings](https://github.com/anandg3302/Dsa_Profile/tree/master/0415-add-strings) |
 | [0459-repeated-substring-pattern](https://github.com/anandg3302/Dsa_Profile/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/anandg3302/Dsa_Profile/tree/master/0796-rotate-string) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/anandg3302/Dsa_Profile/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -212,6 +214,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/anandg3302/Dsa_Profile/tree/master/0054-spiral-matrix) |
+| [0415-add-strings](https://github.com/anandg3302/Dsa_Profile/tree/master/0415-add-strings) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/anandg3302/Dsa_Profile/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/anandg3302/Dsa_Profile/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3612-process-string-with-special-operations-i](https://github.com/anandg3302/Dsa_Profile/tree/master/3612-process-string-with-special-operations-i) |
