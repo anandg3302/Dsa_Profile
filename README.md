@@ -75,6 +75,7 @@
 | [1390-four-divisors](https://github.com/anandg3302/Dsa_Profile/tree/master/1390-four-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anandg3302/Dsa_Profile/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/anandg3302/Dsa_Profile/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [3536-maximum-product-of-two-digits](https://github.com/anandg3302/Dsa_Profile/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/anandg3302/Dsa_Profile/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/anandg3302/Dsa_Profile/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/anandg3302/Dsa_Profile/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -241,6 +242,7 @@
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/anandg3302/Dsa_Profile/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/anandg3302/Dsa_Profile/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2784-check-if-array-is-good](https://github.com/anandg3302/Dsa_Profile/tree/master/2784-check-if-array-is-good) |
+| [3536-maximum-product-of-two-digits](https://github.com/anandg3302/Dsa_Profile/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/anandg3302/Dsa_Profile/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Database
 |  |
