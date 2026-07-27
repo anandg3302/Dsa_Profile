@@ -65,6 +65,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/anandg3302/Dsa_Profile/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/anandg3302/Dsa_Profile/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/anandg3302/Dsa_Profile/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/anandg3302/Dsa_Profile/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/anandg3302/Dsa_Profile/tree/master/0070-climbing-stairs) |
@@ -156,6 +157,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anandg3302/Dsa_Profile/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/anandg3302/Dsa_Profile/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/anandg3302/Dsa_Profile/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/anandg3302/Dsa_Profile/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/anandg3302/Dsa_Profile/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/anandg3302/Dsa_Profile/tree/master/0076-minimum-window-substring) |
@@ -174,6 +176,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/anandg3302/Dsa_Profile/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/anandg3302/Dsa_Profile/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/anandg3302/Dsa_Profile/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/anandg3302/Dsa_Profile/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/anandg3302/Dsa_Profile/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/anandg3302/Dsa_Profile/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/anandg3302/Dsa_Profile/tree/master/0076-minimum-window-substring) |
