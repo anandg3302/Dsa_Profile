@@ -6,6 +6,7 @@
 | ------- |
 | [0015-3sum](https://github.com/anandg3302/Dsa_Profile/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/anandg3302/Dsa_Profile/tree/master/0016-3sum-closest) |
+| [0027-remove-element](https://github.com/anandg3302/Dsa_Profile/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/anandg3302/Dsa_Profile/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/anandg3302/Dsa_Profile/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/anandg3302/Dsa_Profile/tree/master/0045-jump-game-ii) |
@@ -146,6 +147,7 @@
 | [0005-longest-palindromic-substring](https://github.com/anandg3302/Dsa_Profile/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/anandg3302/Dsa_Profile/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/anandg3302/Dsa_Profile/tree/master/0016-3sum-closest) |
+| [0027-remove-element](https://github.com/anandg3302/Dsa_Profile/tree/master/0027-remove-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anandg3302/Dsa_Profile/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/anandg3302/Dsa_Profile/tree/master/0202-happy-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anandg3302/Dsa_Profile/tree/master/0350-intersection-of-two-arrays-ii) |
