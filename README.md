@@ -9,6 +9,7 @@
 | [0027-remove-element](https://github.com/anandg3302/Dsa_Profile/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/anandg3302/Dsa_Profile/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/anandg3302/Dsa_Profile/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/anandg3302/Dsa_Profile/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/anandg3302/Dsa_Profile/tree/master/0045-jump-game-ii) |
 | [0047-permutations-ii](https://github.com/anandg3302/Dsa_Profile/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/anandg3302/Dsa_Profile/tree/master/0051-n-queens) |
@@ -148,6 +149,7 @@
 | [0015-3sum](https://github.com/anandg3302/Dsa_Profile/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/anandg3302/Dsa_Profile/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/anandg3302/Dsa_Profile/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/anandg3302/Dsa_Profile/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anandg3302/Dsa_Profile/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/anandg3302/Dsa_Profile/tree/master/0202-happy-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anandg3302/Dsa_Profile/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -205,6 +207,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/anandg3302/Dsa_Profile/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/anandg3302/Dsa_Profile/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/anandg3302/Dsa_Profile/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/anandg3302/Dsa_Profile/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/anandg3302/Dsa_Profile/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/anandg3302/Dsa_Profile/tree/master/0055-jump-game) |
@@ -359,6 +362,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/anandg3302/Dsa_Profile/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/anandg3302/Dsa_Profile/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/anandg3302/Dsa_Profile/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/anandg3302/Dsa_Profile/tree/master/0145-binary-tree-postorder-traversal) |
@@ -438,4 +442,8 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anandg3302/Dsa_Profile/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/anandg3302/Dsa_Profile/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/anandg3302/Dsa_Profile/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/anandg3302/Dsa_Profile/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
