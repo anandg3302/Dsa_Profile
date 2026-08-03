@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/anandg3302/Dsa_Profile/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/anandg3302/Dsa_Profile/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/anandg3302/Dsa_Profile/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/anandg3302/Dsa_Profile/tree/master/0027-remove-element) |
@@ -166,6 +167,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/anandg3302/Dsa_Profile/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anandg3302/Dsa_Profile/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/anandg3302/Dsa_Profile/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/anandg3302/Dsa_Profile/tree/master/0013-roman-to-integer) |
