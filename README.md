@@ -27,6 +27,7 @@
 | [0090-subsets-ii](https://github.com/anandg3302/Dsa_Profile/tree/master/0090-subsets-ii) |
 | [0134-gas-station](https://github.com/anandg3302/Dsa_Profile/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/anandg3302/Dsa_Profile/tree/master/0135-candy) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/anandg3302/Dsa_Profile/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anandg3302/Dsa_Profile/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/anandg3302/Dsa_Profile/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/anandg3302/Dsa_Profile/tree/master/0209-minimum-size-subarray-sum) |
@@ -74,6 +75,7 @@
 | [0062-unique-paths](https://github.com/anandg3302/Dsa_Profile/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/anandg3302/Dsa_Profile/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/anandg3302/Dsa_Profile/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/anandg3302/Dsa_Profile/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/anandg3302/Dsa_Profile/tree/master/0202-happy-number) |
 | [0319-bulb-switcher](https://github.com/anandg3302/Dsa_Profile/tree/master/0319-bulb-switcher) |
 | [0415-add-strings](https://github.com/anandg3302/Dsa_Profile/tree/master/0415-add-strings) |
@@ -367,6 +369,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/anandg3302/Dsa_Profile/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/anandg3302/Dsa_Profile/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/anandg3302/Dsa_Profile/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/anandg3302/Dsa_Profile/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/anandg3302/Dsa_Profile/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## String Matching
 |  |
