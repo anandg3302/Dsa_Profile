@@ -157,6 +157,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anandg3302/Dsa_Profile/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/anandg3302/Dsa_Profile/tree/master/0202-happy-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anandg3302/Dsa_Profile/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/anandg3302/Dsa_Profile/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/anandg3302/Dsa_Profile/tree/master/0455-assign-cookies) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/anandg3302/Dsa_Profile/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/anandg3302/Dsa_Profile/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -196,6 +197,7 @@
 | [0079-word-search](https://github.com/anandg3302/Dsa_Profile/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/anandg3302/Dsa_Profile/tree/master/0091-decode-ways) |
 | [0205-isomorphic-strings](https://github.com/anandg3302/Dsa_Profile/tree/master/0205-isomorphic-strings) |
+| [0392-is-subsequence](https://github.com/anandg3302/Dsa_Profile/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/anandg3302/Dsa_Profile/tree/master/0415-add-strings) |
 | [0459-repeated-substring-pattern](https://github.com/anandg3302/Dsa_Profile/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/anandg3302/Dsa_Profile/tree/master/0796-rotate-string) |
@@ -224,6 +226,7 @@
 | [0198-house-robber](https://github.com/anandg3302/Dsa_Profile/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/anandg3302/Dsa_Profile/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/anandg3302/Dsa_Profile/tree/master/0322-coin-change) |
+| [0392-is-subsequence](https://github.com/anandg3302/Dsa_Profile/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/anandg3302/Dsa_Profile/tree/master/0435-non-overlapping-intervals) |
 | [0518-coin-change-ii](https://github.com/anandg3302/Dsa_Profile/tree/master/0518-coin-change-ii) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/anandg3302/Dsa_Profile/tree/master/0871-minimum-number-of-refueling-stops) |
