@@ -24,3 +24,20 @@ class Solution {
         }
     }
 }
+
+// List<List<Integer>> ans = new ArrayList<>();
+// backtrack(0,cand,target,new ArrayList<>(),ans);
+// backtrack(int start,int[] can,int target,List<Integer> curr,List<List<Integer>> ans){
+//     if(target == 0){
+//         ans.add(new ArrayList<current));
+//         return;
+//     }
+//     if(target < 0){
+//         return;
+//     }
+//     for(int i = start;i<cand.lengt;i++){
+//         current.add(cand[i]);
+//         backtrack(i,cand,target - cand[i],curr,ans);
+//         curr.remove(curr.size() - 1);
+//     }
+// }
