@@ -27,6 +27,7 @@
 | [0078-subsets](https://github.com/anandg3302/Dsa_Profile/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/anandg3302/Dsa_Profile/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/anandg3302/Dsa_Profile/tree/master/0090-subsets-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/anandg3302/Dsa_Profile/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/anandg3302/Dsa_Profile/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/anandg3302/Dsa_Profile/tree/master/0135-candy) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/anandg3302/Dsa_Profile/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -229,6 +230,7 @@
 | [0064-minimum-path-sum](https://github.com/anandg3302/Dsa_Profile/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/anandg3302/Dsa_Profile/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/anandg3302/Dsa_Profile/tree/master/0091-decode-ways) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/anandg3302/Dsa_Profile/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/anandg3302/Dsa_Profile/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/anandg3302/Dsa_Profile/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/anandg3302/Dsa_Profile/tree/master/0322-coin-change) |
