@@ -500,4 +500,12 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/anandg3302/Dsa_Profile/tree/master/0075-sort-colors) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/anandg3302/Dsa_Profile/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/anandg3302/Dsa_Profile/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
