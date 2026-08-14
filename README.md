@@ -188,6 +188,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/anandg3302/Dsa_Profile/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/anandg3302/Dsa_Profile/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0645-set-mismatch](https://github.com/anandg3302/Dsa_Profile/tree/master/0645-set-mismatch) |
+| [0771-jewels-and-stones](https://github.com/anandg3302/Dsa_Profile/tree/master/0771-jewels-and-stones) |
 | [1331-rank-transform-of-an-array](https://github.com/anandg3302/Dsa_Profile/tree/master/1331-rank-transform-of-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/anandg3302/Dsa_Profile/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/anandg3302/Dsa_Profile/tree/master/2423-remove-letter-to-equalize-frequency) |
@@ -210,6 +211,7 @@
 | [0392-is-subsequence](https://github.com/anandg3302/Dsa_Profile/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/anandg3302/Dsa_Profile/tree/master/0415-add-strings) |
 | [0459-repeated-substring-pattern](https://github.com/anandg3302/Dsa_Profile/tree/master/0459-repeated-substring-pattern) |
+| [0771-jewels-and-stones](https://github.com/anandg3302/Dsa_Profile/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/anandg3302/Dsa_Profile/tree/master/0796-rotate-string) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/anandg3302/Dsa_Profile/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1844-replace-all-digits-with-characters](https://github.com/anandg3302/Dsa_Profile/tree/master/1844-replace-all-digits-with-characters) |
