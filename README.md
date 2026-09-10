@@ -55,6 +55,7 @@
 | [0980-unique-paths-iii](https://github.com/anandg3302/Dsa_Profile/tree/master/0980-unique-paths-iii) |
 | [1029-two-city-scheduling](https://github.com/anandg3302/Dsa_Profile/tree/master/1029-two-city-scheduling) |
 | [1089-duplicate-zeros](https://github.com/anandg3302/Dsa_Profile/tree/master/1089-duplicate-zeros) |
+| [1207-unique-number-of-occurrences](https://github.com/anandg3302/Dsa_Profile/tree/master/1207-unique-number-of-occurrences) |
 | [1219-path-with-maximum-gold](https://github.com/anandg3302/Dsa_Profile/tree/master/1219-path-with-maximum-gold) |
 | [1288-remove-covered-intervals](https://github.com/anandg3302/Dsa_Profile/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/anandg3302/Dsa_Profile/tree/master/1331-rank-transform-of-an-array) |
@@ -193,6 +194,7 @@
 | [0532-k-diff-pairs-in-an-array](https://github.com/anandg3302/Dsa_Profile/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0645-set-mismatch](https://github.com/anandg3302/Dsa_Profile/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/anandg3302/Dsa_Profile/tree/master/0771-jewels-and-stones) |
+| [1207-unique-number-of-occurrences](https://github.com/anandg3302/Dsa_Profile/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/anandg3302/Dsa_Profile/tree/master/1331-rank-transform-of-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/anandg3302/Dsa_Profile/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/anandg3302/Dsa_Profile/tree/master/2423-remove-letter-to-equalize-frequency) |
