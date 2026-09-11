@@ -73,6 +73,7 @@
 | [2563-count-the-number-of-fair-pairs](https://github.com/anandg3302/Dsa_Profile/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2574-left-and-right-sum-differences](https://github.com/anandg3302/Dsa_Profile/tree/master/2574-left-and-right-sum-differences) |
 | [2784-check-if-array-is-good](https://github.com/anandg3302/Dsa_Profile/tree/master/2784-check-if-array-is-good) |
+| [3483-unique-3-digit-even-numbers](https://github.com/anandg3302/Dsa_Profile/tree/master/3483-unique-3-digit-even-numbers) |
 | [3689-maximum-total-subarray-value-i](https://github.com/anandg3302/Dsa_Profile/tree/master/3689-maximum-total-subarray-value-i) |
 | [3838-weighted-word-mapping](https://github.com/anandg3302/Dsa_Profile/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/anandg3302/Dsa_Profile/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -200,6 +201,7 @@
 | [1636-sort-array-by-increasing-frequency](https://github.com/anandg3302/Dsa_Profile/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/anandg3302/Dsa_Profile/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2784-check-if-array-is-good](https://github.com/anandg3302/Dsa_Profile/tree/master/2784-check-if-array-is-good) |
+| [3483-unique-3-digit-even-numbers](https://github.com/anandg3302/Dsa_Profile/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
 |  |
 | ------- |
@@ -255,6 +257,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/anandg3302/Dsa_Profile/tree/master/3483-unique-3-digit-even-numbers) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/anandg3302/Dsa_Profile/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Simulation
 |  |
@@ -503,6 +506,7 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/anandg3302/Dsa_Profile/tree/master/0509-fibonacci-number) |
+| [3483-unique-3-digit-even-numbers](https://github.com/anandg3302/Dsa_Profile/tree/master/3483-unique-3-digit-even-numbers) |
 ## Quicksort
 |  |
 | ------- |
