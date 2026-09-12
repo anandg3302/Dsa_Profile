@@ -53,6 +53,7 @@
 | [0532-k-diff-pairs-in-an-array](https://github.com/anandg3302/Dsa_Profile/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0645-set-mismatch](https://github.com/anandg3302/Dsa_Profile/tree/master/0645-set-mismatch) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/anandg3302/Dsa_Profile/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0704-binary-search](https://github.com/anandg3302/Dsa_Profile/tree/master/0704-binary-search) |
 | [0860-lemonade-change](https://github.com/anandg3302/Dsa_Profile/tree/master/0860-lemonade-change) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/anandg3302/Dsa_Profile/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0977-squares-of-a-sorted-array](https://github.com/anandg3302/Dsa_Profile/tree/master/0977-squares-of-a-sorted-array) |
@@ -156,6 +157,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/anandg3302/Dsa_Profile/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anandg3302/Dsa_Profile/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/anandg3302/Dsa_Profile/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0704-binary-search](https://github.com/anandg3302/Dsa_Profile/tree/master/0704-binary-search) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/anandg3302/Dsa_Profile/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/anandg3302/Dsa_Profile/tree/master/2563-count-the-number-of-fair-pairs) |
 ## Prefix Sum
