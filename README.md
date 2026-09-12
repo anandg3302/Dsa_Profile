@@ -124,6 +124,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/anandg3302/Dsa_Profile/tree/master/0239-sliding-window-maximum) |
+| [0387-first-unique-character-in-a-string](https://github.com/anandg3302/Dsa_Profile/tree/master/0387-first-unique-character-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -206,6 +207,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/anandg3302/Dsa_Profile/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anandg3302/Dsa_Profile/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/anandg3302/Dsa_Profile/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/anandg3302/Dsa_Profile/tree/master/0387-first-unique-character-in-a-string) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/anandg3302/Dsa_Profile/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0645-set-mismatch](https://github.com/anandg3302/Dsa_Profile/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/anandg3302/Dsa_Profile/tree/master/0771-jewels-and-stones) |
@@ -232,6 +234,7 @@
 | [0205-isomorphic-strings](https://github.com/anandg3302/Dsa_Profile/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/anandg3302/Dsa_Profile/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/anandg3302/Dsa_Profile/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/anandg3302/Dsa_Profile/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/anandg3302/Dsa_Profile/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/anandg3302/Dsa_Profile/tree/master/0415-add-strings) |
 | [0459-repeated-substring-pattern](https://github.com/anandg3302/Dsa_Profile/tree/master/0459-repeated-substring-pattern) |
@@ -440,6 +443,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/anandg3302/Dsa_Profile/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/anandg3302/Dsa_Profile/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/anandg3302/Dsa_Profile/tree/master/0387-first-unique-character-in-a-string) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/anandg3302/Dsa_Profile/tree/master/2423-remove-letter-to-equalize-frequency) |
 ## Tree
 |  |
