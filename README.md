@@ -200,6 +200,7 @@
 | [0202-happy-number](https://github.com/anandg3302/Dsa_Profile/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/anandg3302/Dsa_Profile/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/anandg3302/Dsa_Profile/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/anandg3302/Dsa_Profile/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/anandg3302/Dsa_Profile/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anandg3302/Dsa_Profile/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/anandg3302/Dsa_Profile/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -226,6 +227,7 @@
 | [0079-word-search](https://github.com/anandg3302/Dsa_Profile/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/anandg3302/Dsa_Profile/tree/master/0091-decode-ways) |
 | [0205-isomorphic-strings](https://github.com/anandg3302/Dsa_Profile/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/anandg3302/Dsa_Profile/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/anandg3302/Dsa_Profile/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/anandg3302/Dsa_Profile/tree/master/0415-add-strings) |
 | [0459-repeated-substring-pattern](https://github.com/anandg3302/Dsa_Profile/tree/master/0459-repeated-substring-pattern) |
@@ -288,6 +290,7 @@
 | [0056-merge-intervals](https://github.com/anandg3302/Dsa_Profile/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/anandg3302/Dsa_Profile/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/anandg3302/Dsa_Profile/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/anandg3302/Dsa_Profile/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/anandg3302/Dsa_Profile/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anandg3302/Dsa_Profile/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anandg3302/Dsa_Profile/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
