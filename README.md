@@ -41,6 +41,7 @@
 | [0228-summary-ranges](https://github.com/anandg3302/Dsa_Profile/tree/master/0228-summary-ranges) |
 | [0239-sliding-window-maximum](https://github.com/anandg3302/Dsa_Profile/tree/master/0239-sliding-window-maximum) |
 | [0322-coin-change](https://github.com/anandg3302/Dsa_Profile/tree/master/0322-coin-change) |
+| [0349-intersection-of-two-arrays](https://github.com/anandg3302/Dsa_Profile/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anandg3302/Dsa_Profile/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anandg3302/Dsa_Profile/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/anandg3302/Dsa_Profile/tree/master/0435-non-overlapping-intervals) |
@@ -148,6 +149,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anandg3302/Dsa_Profile/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/anandg3302/Dsa_Profile/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/anandg3302/Dsa_Profile/tree/master/0222-count-complete-tree-nodes) |
+| [0349-intersection-of-two-arrays](https://github.com/anandg3302/Dsa_Profile/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anandg3302/Dsa_Profile/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anandg3302/Dsa_Profile/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/anandg3302/Dsa_Profile/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -173,6 +175,7 @@
 | [0141-linked-list-cycle](https://github.com/anandg3302/Dsa_Profile/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anandg3302/Dsa_Profile/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/anandg3302/Dsa_Profile/tree/master/0202-happy-number) |
+| [0349-intersection-of-two-arrays](https://github.com/anandg3302/Dsa_Profile/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anandg3302/Dsa_Profile/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/anandg3302/Dsa_Profile/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/anandg3302/Dsa_Profile/tree/master/0455-assign-cookies) |
@@ -197,6 +200,7 @@
 | [0202-happy-number](https://github.com/anandg3302/Dsa_Profile/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/anandg3302/Dsa_Profile/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/anandg3302/Dsa_Profile/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/anandg3302/Dsa_Profile/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anandg3302/Dsa_Profile/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/anandg3302/Dsa_Profile/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0645-set-mismatch](https://github.com/anandg3302/Dsa_Profile/tree/master/0645-set-mismatch) |
@@ -284,6 +288,7 @@
 | [0056-merge-intervals](https://github.com/anandg3302/Dsa_Profile/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/anandg3302/Dsa_Profile/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/anandg3302/Dsa_Profile/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/anandg3302/Dsa_Profile/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anandg3302/Dsa_Profile/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anandg3302/Dsa_Profile/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/anandg3302/Dsa_Profile/tree/master/0435-non-overlapping-intervals) |
