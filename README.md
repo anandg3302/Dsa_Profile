@@ -33,6 +33,7 @@
 | [0135-candy](https://github.com/anandg3302/Dsa_Profile/tree/master/0135-candy) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/anandg3302/Dsa_Profile/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anandg3302/Dsa_Profile/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/anandg3302/Dsa_Profile/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/anandg3302/Dsa_Profile/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/anandg3302/Dsa_Profile/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/anandg3302/Dsa_Profile/tree/master/0213-house-robber-ii) |
@@ -197,6 +198,7 @@
 | [0073-set-matrix-zeroes](https://github.com/anandg3302/Dsa_Profile/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/anandg3302/Dsa_Profile/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/anandg3302/Dsa_Profile/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/anandg3302/Dsa_Profile/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/anandg3302/Dsa_Profile/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/anandg3302/Dsa_Profile/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/anandg3302/Dsa_Profile/tree/master/0217-contains-duplicate) |
@@ -289,6 +291,7 @@
 | [0047-permutations-ii](https://github.com/anandg3302/Dsa_Profile/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/anandg3302/Dsa_Profile/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/anandg3302/Dsa_Profile/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/anandg3302/Dsa_Profile/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/anandg3302/Dsa_Profile/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/anandg3302/Dsa_Profile/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/anandg3302/Dsa_Profile/tree/master/0349-intersection-of-two-arrays) |
@@ -359,6 +362,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/anandg3302/Dsa_Profile/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/anandg3302/Dsa_Profile/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/anandg3302/Dsa_Profile/tree/master/0191-number-of-1-bits) |
 ## Bit Manipulation
 |  |
@@ -432,6 +436,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/anandg3302/Dsa_Profile/tree/master/0169-majority-element) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/anandg3302/Dsa_Profile/tree/master/2423-remove-letter-to-equalize-frequency) |
 ## Tree
 |  |
@@ -539,4 +544,8 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/anandg3302/Dsa_Profile/tree/master/0322-coin-change) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/anandg3302/Dsa_Profile/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
