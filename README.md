@@ -77,6 +77,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/anandg3302/Dsa_Profile/tree/master/1480-running-sum-of-1d-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/anandg3302/Dsa_Profile/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1732-find-the-highest-altitude](https://github.com/anandg3302/Dsa_Profile/tree/master/1732-find-the-highest-altitude) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/anandg3302/Dsa_Profile/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/anandg3302/Dsa_Profile/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anandg3302/Dsa_Profile/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/anandg3302/Dsa_Profile/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -298,6 +299,7 @@
 | [0509-fibonacci-number](https://github.com/anandg3302/Dsa_Profile/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/anandg3302/Dsa_Profile/tree/master/0518-coin-change-ii) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/anandg3302/Dsa_Profile/tree/master/0871-minimum-number-of-refueling-stops) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/anandg3302/Dsa_Profile/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/anandg3302/Dsa_Profile/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Enumeration
 |  |
