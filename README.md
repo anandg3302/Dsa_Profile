@@ -60,6 +60,7 @@
 | [0704-binary-search](https://github.com/anandg3302/Dsa_Profile/tree/master/0704-binary-search) |
 | [0860-lemonade-change](https://github.com/anandg3302/Dsa_Profile/tree/master/0860-lemonade-change) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/anandg3302/Dsa_Profile/tree/master/0871-minimum-number-of-refueling-stops) |
+| [0904-fruit-into-baskets](https://github.com/anandg3302/Dsa_Profile/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/anandg3302/Dsa_Profile/tree/master/0977-squares-of-a-sorted-array) |
 | [0980-unique-paths-iii](https://github.com/anandg3302/Dsa_Profile/tree/master/0980-unique-paths-iii) |
 | [1004-max-consecutive-ones-iii](https://github.com/anandg3302/Dsa_Profile/tree/master/1004-max-consecutive-ones-iii) |
@@ -142,6 +143,7 @@
 | [0219-contains-duplicate-ii](https://github.com/anandg3302/Dsa_Profile/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/anandg3302/Dsa_Profile/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/anandg3302/Dsa_Profile/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/anandg3302/Dsa_Profile/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/anandg3302/Dsa_Profile/tree/master/1004-max-consecutive-ones-iii) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/anandg3302/Dsa_Profile/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Heap (Priority Queue)
@@ -232,6 +234,7 @@
 | [0532-k-diff-pairs-in-an-array](https://github.com/anandg3302/Dsa_Profile/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0645-set-mismatch](https://github.com/anandg3302/Dsa_Profile/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/anandg3302/Dsa_Profile/tree/master/0771-jewels-and-stones) |
+| [0904-fruit-into-baskets](https://github.com/anandg3302/Dsa_Profile/tree/master/0904-fruit-into-baskets) |
 | [1207-unique-number-of-occurrences](https://github.com/anandg3302/Dsa_Profile/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/anandg3302/Dsa_Profile/tree/master/1331-rank-transform-of-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/anandg3302/Dsa_Profile/tree/master/1636-sort-array-by-increasing-frequency) |
