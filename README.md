@@ -53,6 +53,7 @@
 | [0502-ipo](https://github.com/anandg3302/Dsa_Profile/tree/master/0502-ipo) |
 | [0518-coin-change-ii](https://github.com/anandg3302/Dsa_Profile/tree/master/0518-coin-change-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/anandg3302/Dsa_Profile/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0643-maximum-average-subarray-i](https://github.com/anandg3302/Dsa_Profile/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/anandg3302/Dsa_Profile/tree/master/0645-set-mismatch) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/anandg3302/Dsa_Profile/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0704-binary-search](https://github.com/anandg3302/Dsa_Profile/tree/master/0704-binary-search) |
@@ -137,6 +138,7 @@
 | [0076-minimum-window-substring](https://github.com/anandg3302/Dsa_Profile/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/anandg3302/Dsa_Profile/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/anandg3302/Dsa_Profile/tree/master/0239-sliding-window-maximum) |
+| [0643-maximum-average-subarray-i](https://github.com/anandg3302/Dsa_Profile/tree/master/0643-maximum-average-subarray-i) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/anandg3302/Dsa_Profile/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Heap (Priority Queue)
 |  |
