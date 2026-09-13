@@ -62,6 +62,7 @@
 | [0871-minimum-number-of-refueling-stops](https://github.com/anandg3302/Dsa_Profile/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0977-squares-of-a-sorted-array](https://github.com/anandg3302/Dsa_Profile/tree/master/0977-squares-of-a-sorted-array) |
 | [0980-unique-paths-iii](https://github.com/anandg3302/Dsa_Profile/tree/master/0980-unique-paths-iii) |
+| [1004-max-consecutive-ones-iii](https://github.com/anandg3302/Dsa_Profile/tree/master/1004-max-consecutive-ones-iii) |
 | [1029-two-city-scheduling](https://github.com/anandg3302/Dsa_Profile/tree/master/1029-two-city-scheduling) |
 | [1089-duplicate-zeros](https://github.com/anandg3302/Dsa_Profile/tree/master/1089-duplicate-zeros) |
 | [1207-unique-number-of-occurrences](https://github.com/anandg3302/Dsa_Profile/tree/master/1207-unique-number-of-occurrences) |
@@ -141,6 +142,7 @@
 | [0219-contains-duplicate-ii](https://github.com/anandg3302/Dsa_Profile/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/anandg3302/Dsa_Profile/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/anandg3302/Dsa_Profile/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/anandg3302/Dsa_Profile/tree/master/1004-max-consecutive-ones-iii) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/anandg3302/Dsa_Profile/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Heap (Priority Queue)
 |  |
@@ -165,12 +167,14 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anandg3302/Dsa_Profile/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/anandg3302/Dsa_Profile/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0704-binary-search](https://github.com/anandg3302/Dsa_Profile/tree/master/0704-binary-search) |
+| [1004-max-consecutive-ones-iii](https://github.com/anandg3302/Dsa_Profile/tree/master/1004-max-consecutive-ones-iii) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/anandg3302/Dsa_Profile/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/anandg3302/Dsa_Profile/tree/master/2563-count-the-number-of-fair-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/anandg3302/Dsa_Profile/tree/master/0209-minimum-size-subarray-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/anandg3302/Dsa_Profile/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/anandg3302/Dsa_Profile/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/anandg3302/Dsa_Profile/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/anandg3302/Dsa_Profile/tree/master/2574-left-and-right-sum-differences) |
