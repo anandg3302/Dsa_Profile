@@ -204,6 +204,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/anandg3302/Dsa_Profile/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anandg3302/Dsa_Profile/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/anandg3302/Dsa_Profile/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/anandg3302/Dsa_Profile/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/anandg3302/Dsa_Profile/tree/master/0455-assign-cookies) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/anandg3302/Dsa_Profile/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0925-long-pressed-name](https://github.com/anandg3302/Dsa_Profile/tree/master/0925-long-pressed-name) |
@@ -268,6 +269,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/anandg3302/Dsa_Profile/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/anandg3302/Dsa_Profile/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/anandg3302/Dsa_Profile/tree/master/0415-add-strings) |
+| [0443-string-compression](https://github.com/anandg3302/Dsa_Profile/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/anandg3302/Dsa_Profile/tree/master/0459-repeated-substring-pattern) |
 | [0771-jewels-and-stones](https://github.com/anandg3302/Dsa_Profile/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/anandg3302/Dsa_Profile/tree/master/0796-rotate-string) |
