@@ -48,6 +48,7 @@
 | [0228-summary-ranges](https://github.com/anandg3302/Dsa_Profile/tree/master/0228-summary-ranges) |
 | [0239-sliding-window-maximum](https://github.com/anandg3302/Dsa_Profile/tree/master/0239-sliding-window-maximum) |
 | [0322-coin-change](https://github.com/anandg3302/Dsa_Profile/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/anandg3302/Dsa_Profile/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/anandg3302/Dsa_Profile/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anandg3302/Dsa_Profile/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anandg3302/Dsa_Profile/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -158,6 +159,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/anandg3302/Dsa_Profile/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/anandg3302/Dsa_Profile/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/anandg3302/Dsa_Profile/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anandg3302/Dsa_Profile/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0502-ipo](https://github.com/anandg3302/Dsa_Profile/tree/master/0502-ipo) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/anandg3302/Dsa_Profile/tree/master/0871-minimum-number-of-refueling-stops) |
@@ -240,6 +242,7 @@
 | [0217-contains-duplicate](https://github.com/anandg3302/Dsa_Profile/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/anandg3302/Dsa_Profile/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/anandg3302/Dsa_Profile/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/anandg3302/Dsa_Profile/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/anandg3302/Dsa_Profile/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anandg3302/Dsa_Profile/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/anandg3302/Dsa_Profile/tree/master/0383-ransom-note) |
@@ -347,6 +350,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/anandg3302/Dsa_Profile/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/anandg3302/Dsa_Profile/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/anandg3302/Dsa_Profile/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/anandg3302/Dsa_Profile/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/anandg3302/Dsa_Profile/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anandg3302/Dsa_Profile/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anandg3302/Dsa_Profile/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -420,6 +424,7 @@
 | [0169-majority-element](https://github.com/anandg3302/Dsa_Profile/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/anandg3302/Dsa_Profile/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anandg3302/Dsa_Profile/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/anandg3302/Dsa_Profile/tree/master/0347-top-k-frequent-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -493,6 +498,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/anandg3302/Dsa_Profile/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/anandg3302/Dsa_Profile/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/anandg3302/Dsa_Profile/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/anandg3302/Dsa_Profile/tree/master/0387-first-unique-character-in-a-string) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/anandg3302/Dsa_Profile/tree/master/2423-remove-letter-to-equalize-frequency) |
@@ -614,4 +620,9 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/anandg3302/Dsa_Profile/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/anandg3302/Dsa_Profile/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/anandg3302/Dsa_Profile/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
