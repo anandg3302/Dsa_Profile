@@ -303,6 +303,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/anandg3302/Dsa_Profile/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2418-sort-the-people](https://github.com/anandg3302/Dsa_Profile/tree/master/2418-sort-the-people) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/anandg3302/Dsa_Profile/tree/master/2423-remove-letter-to-equalize-frequency) |
+| [2785-sort-vowels-in-a-string](https://github.com/anandg3302/Dsa_Profile/tree/master/2785-sort-vowels-in-a-string) |
 | [3136-valid-word](https://github.com/anandg3302/Dsa_Profile/tree/master/3136-valid-word) |
 | [3612-process-string-with-special-operations-i](https://github.com/anandg3302/Dsa_Profile/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/anandg3302/Dsa_Profile/tree/master/3838-weighted-word-mapping) |
@@ -382,6 +383,7 @@
 | [2418-sort-the-people](https://github.com/anandg3302/Dsa_Profile/tree/master/2418-sort-the-people) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/anandg3302/Dsa_Profile/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2784-check-if-array-is-good](https://github.com/anandg3302/Dsa_Profile/tree/master/2784-check-if-array-is-good) |
+| [2785-sort-vowels-in-a-string](https://github.com/anandg3302/Dsa_Profile/tree/master/2785-sort-vowels-in-a-string) |
 | [3536-maximum-product-of-two-digits](https://github.com/anandg3302/Dsa_Profile/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/anandg3302/Dsa_Profile/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Database
