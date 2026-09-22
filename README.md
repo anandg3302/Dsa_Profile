@@ -95,6 +95,7 @@
 | [2563-count-the-number-of-fair-pairs](https://github.com/anandg3302/Dsa_Profile/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2574-left-and-right-sum-differences](https://github.com/anandg3302/Dsa_Profile/tree/master/2574-left-and-right-sum-differences) |
 | [2784-check-if-array-is-good](https://github.com/anandg3302/Dsa_Profile/tree/master/2784-check-if-array-is-good) |
+| [3011-find-if-array-can-be-sorted](https://github.com/anandg3302/Dsa_Profile/tree/master/3011-find-if-array-can-be-sorted) |
 | [3483-unique-3-digit-even-numbers](https://github.com/anandg3302/Dsa_Profile/tree/master/3483-unique-3-digit-even-numbers) |
 | [3689-maximum-total-subarray-value-i](https://github.com/anandg3302/Dsa_Profile/tree/master/3689-maximum-total-subarray-value-i) |
 | [3838-weighted-word-mapping](https://github.com/anandg3302/Dsa_Profile/tree/master/3838-weighted-word-mapping) |
@@ -389,6 +390,7 @@
 | [2563-count-the-number-of-fair-pairs](https://github.com/anandg3302/Dsa_Profile/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2784-check-if-array-is-good](https://github.com/anandg3302/Dsa_Profile/tree/master/2784-check-if-array-is-good) |
 | [2785-sort-vowels-in-a-string](https://github.com/anandg3302/Dsa_Profile/tree/master/2785-sort-vowels-in-a-string) |
+| [3011-find-if-array-can-be-sorted](https://github.com/anandg3302/Dsa_Profile/tree/master/3011-find-if-array-can-be-sorted) |
 | [3536-maximum-product-of-two-digits](https://github.com/anandg3302/Dsa_Profile/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/anandg3302/Dsa_Profile/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Database
@@ -455,6 +457,7 @@
 | [0476-number-complement](https://github.com/anandg3302/Dsa_Profile/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/anandg3302/Dsa_Profile/tree/master/0645-set-mismatch) |
 | [0980-unique-paths-iii](https://github.com/anandg3302/Dsa_Profile/tree/master/0980-unique-paths-iii) |
+| [3011-find-if-array-can-be-sorted](https://github.com/anandg3302/Dsa_Profile/tree/master/3011-find-if-array-can-be-sorted) |
 ## Combinatorics
 |  |
 | ------- |
