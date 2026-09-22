@@ -89,6 +89,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anandg3302/Dsa_Profile/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/anandg3302/Dsa_Profile/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/anandg3302/Dsa_Profile/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/anandg3302/Dsa_Profile/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/anandg3302/Dsa_Profile/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2418-sort-the-people](https://github.com/anandg3302/Dsa_Profile/tree/master/2418-sort-the-people) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/anandg3302/Dsa_Profile/tree/master/2563-count-the-number-of-fair-pairs) |
@@ -187,6 +188,7 @@
 | [0704-binary-search](https://github.com/anandg3302/Dsa_Profile/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/anandg3302/Dsa_Profile/tree/master/1004-max-consecutive-ones-iii) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/anandg3302/Dsa_Profile/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/anandg3302/Dsa_Profile/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/anandg3302/Dsa_Profile/tree/master/2563-count-the-number-of-fair-pairs) |
 ## Prefix Sum
 |  |
@@ -382,6 +384,7 @@
 | [1636-sort-array-by-increasing-frequency](https://github.com/anandg3302/Dsa_Profile/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1859-sorting-the-sentence](https://github.com/anandg3302/Dsa_Profile/tree/master/1859-sorting-the-sentence) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/anandg3302/Dsa_Profile/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/anandg3302/Dsa_Profile/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2418-sort-the-people](https://github.com/anandg3302/Dsa_Profile/tree/master/2418-sort-the-people) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/anandg3302/Dsa_Profile/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2784-check-if-array-is-good](https://github.com/anandg3302/Dsa_Profile/tree/master/2784-check-if-array-is-good) |
