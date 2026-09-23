@@ -74,6 +74,7 @@
 | [1089-duplicate-zeros](https://github.com/anandg3302/Dsa_Profile/tree/master/1089-duplicate-zeros) |
 | [1207-unique-number-of-occurrences](https://github.com/anandg3302/Dsa_Profile/tree/master/1207-unique-number-of-occurrences) |
 | [1219-path-with-maximum-gold](https://github.com/anandg3302/Dsa_Profile/tree/master/1219-path-with-maximum-gold) |
+| [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/anandg3302/Dsa_Profile/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/anandg3302/Dsa_Profile/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/anandg3302/Dsa_Profile/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/anandg3302/Dsa_Profile/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
