@@ -115,6 +115,7 @@
 | [0415-add-strings](https://github.com/anandg3302/Dsa_Profile/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/anandg3302/Dsa_Profile/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/anandg3302/Dsa_Profile/tree/master/0509-fibonacci-number) |
+| [1227-airplane-seat-assignment-probability](https://github.com/anandg3302/Dsa_Profile/tree/master/1227-airplane-seat-assignment-probability) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/anandg3302/Dsa_Profile/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1390-four-divisors](https://github.com/anandg3302/Dsa_Profile/tree/master/1390-four-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anandg3302/Dsa_Profile/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -336,6 +337,7 @@
 | [0518-coin-change-ii](https://github.com/anandg3302/Dsa_Profile/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/anandg3302/Dsa_Profile/tree/master/0647-palindromic-substrings) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/anandg3302/Dsa_Profile/tree/master/0871-minimum-number-of-refueling-stops) |
+| [1227-airplane-seat-assignment-probability](https://github.com/anandg3302/Dsa_Profile/tree/master/1227-airplane-seat-assignment-probability) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/anandg3302/Dsa_Profile/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/anandg3302/Dsa_Profile/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Enumeration
@@ -587,6 +589,7 @@
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/anandg3302/Dsa_Profile/tree/master/0319-bulb-switcher) |
+| [1227-airplane-seat-assignment-probability](https://github.com/anandg3302/Dsa_Profile/tree/master/1227-airplane-seat-assignment-probability) |
 ## Number Theory
 |  |
 | ------- |
@@ -655,4 +658,8 @@
 | [0347-top-k-frequent-elements](https://github.com/anandg3302/Dsa_Profile/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/anandg3302/Dsa_Profile/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/anandg3302/Dsa_Profile/tree/master/0692-top-k-frequent-words) |
+## Probability and Statistics
+|  |
+| ------- |
+| [1227-airplane-seat-assignment-probability](https://github.com/anandg3302/Dsa_Profile/tree/master/1227-airplane-seat-assignment-probability) |
 <!---LeetCode Topics End-->
