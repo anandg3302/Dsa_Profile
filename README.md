@@ -86,6 +86,7 @@
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/anandg3302/Dsa_Profile/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1732-find-the-highest-altitude](https://github.com/anandg3302/Dsa_Profile/tree/master/1732-find-the-highest-altitude) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/anandg3302/Dsa_Profile/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/anandg3302/Dsa_Profile/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/anandg3302/Dsa_Profile/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anandg3302/Dsa_Profile/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/anandg3302/Dsa_Profile/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -266,6 +267,7 @@
 | [1207-unique-number-of-occurrences](https://github.com/anandg3302/Dsa_Profile/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/anandg3302/Dsa_Profile/tree/master/1331-rank-transform-of-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/anandg3302/Dsa_Profile/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/anandg3302/Dsa_Profile/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2418-sort-the-people](https://github.com/anandg3302/Dsa_Profile/tree/master/2418-sort-the-people) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/anandg3302/Dsa_Profile/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2784-check-if-array-is-good](https://github.com/anandg3302/Dsa_Profile/tree/master/2784-check-if-array-is-good) |
@@ -305,6 +307,7 @@
 | [0925-long-pressed-name](https://github.com/anandg3302/Dsa_Profile/tree/master/0925-long-pressed-name) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/anandg3302/Dsa_Profile/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/anandg3302/Dsa_Profile/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/anandg3302/Dsa_Profile/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1844-replace-all-digits-with-characters](https://github.com/anandg3302/Dsa_Profile/tree/master/1844-replace-all-digits-with-characters) |
 | [1859-sorting-the-sentence](https://github.com/anandg3302/Dsa_Profile/tree/master/1859-sorting-the-sentence) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/anandg3302/Dsa_Profile/tree/master/1910-remove-all-occurrences-of-a-substring) |
