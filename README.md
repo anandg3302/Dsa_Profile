@@ -98,6 +98,7 @@
 | [2563-count-the-number-of-fair-pairs](https://github.com/anandg3302/Dsa_Profile/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2574-left-and-right-sum-differences](https://github.com/anandg3302/Dsa_Profile/tree/master/2574-left-and-right-sum-differences) |
 | [2784-check-if-array-is-good](https://github.com/anandg3302/Dsa_Profile/tree/master/2784-check-if-array-is-good) |
+| [2848-points-that-intersect-with-cars](https://github.com/anandg3302/Dsa_Profile/tree/master/2848-points-that-intersect-with-cars) |
 | [3011-find-if-array-can-be-sorted](https://github.com/anandg3302/Dsa_Profile/tree/master/3011-find-if-array-can-be-sorted) |
 | [3483-unique-3-digit-even-numbers](https://github.com/anandg3302/Dsa_Profile/tree/master/3483-unique-3-digit-even-numbers) |
 | [3689-maximum-total-subarray-value-i](https://github.com/anandg3302/Dsa_Profile/tree/master/3689-maximum-total-subarray-value-i) |
@@ -204,6 +205,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/anandg3302/Dsa_Profile/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/anandg3302/Dsa_Profile/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/anandg3302/Dsa_Profile/tree/master/2574-left-and-right-sum-differences) |
+| [2848-points-that-intersect-with-cars](https://github.com/anandg3302/Dsa_Profile/tree/master/2848-points-that-intersect-with-cars) |
 ## Two Pointers
 |  |
 | ------- |
@@ -273,6 +275,7 @@
 | [2418-sort-the-people](https://github.com/anandg3302/Dsa_Profile/tree/master/2418-sort-the-people) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/anandg3302/Dsa_Profile/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2784-check-if-array-is-good](https://github.com/anandg3302/Dsa_Profile/tree/master/2784-check-if-array-is-good) |
+| [2848-points-that-intersect-with-cars](https://github.com/anandg3302/Dsa_Profile/tree/master/2848-points-that-intersect-with-cars) |
 | [3483-unique-3-digit-even-numbers](https://github.com/anandg3302/Dsa_Profile/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
 |  |
