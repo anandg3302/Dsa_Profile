@@ -19,3 +19,4 @@ class Solution:
             word_to_char[w] = c
 
         return True
+        
