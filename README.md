@@ -84,6 +84,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/anandg3302/Dsa_Profile/tree/master/1480-running-sum-of-1d-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/anandg3302/Dsa_Profile/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/anandg3302/Dsa_Profile/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1695-maximum-erasure-value](https://github.com/anandg3302/Dsa_Profile/tree/master/1695-maximum-erasure-value) |
 | [1732-find-the-highest-altitude](https://github.com/anandg3302/Dsa_Profile/tree/master/1732-find-the-highest-altitude) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/anandg3302/Dsa_Profile/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/anandg3302/Dsa_Profile/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -163,6 +164,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/anandg3302/Dsa_Profile/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/anandg3302/Dsa_Profile/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/anandg3302/Dsa_Profile/tree/master/1004-max-consecutive-ones-iii) |
+| [1695-maximum-erasure-value](https://github.com/anandg3302/Dsa_Profile/tree/master/1695-maximum-erasure-value) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/anandg3302/Dsa_Profile/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Heap (Priority Queue)
 |  |
@@ -271,6 +273,7 @@
 | [1207-unique-number-of-occurrences](https://github.com/anandg3302/Dsa_Profile/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/anandg3302/Dsa_Profile/tree/master/1331-rank-transform-of-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/anandg3302/Dsa_Profile/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1695-maximum-erasure-value](https://github.com/anandg3302/Dsa_Profile/tree/master/1695-maximum-erasure-value) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/anandg3302/Dsa_Profile/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2418-sort-the-people](https://github.com/anandg3302/Dsa_Profile/tree/master/2418-sort-the-people) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/anandg3302/Dsa_Profile/tree/master/2423-remove-letter-to-equalize-frequency) |
