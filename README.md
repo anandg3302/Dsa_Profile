@@ -17,6 +17,7 @@
 | [0045-jump-game-ii](https://github.com/anandg3302/Dsa_Profile/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/anandg3302/Dsa_Profile/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/anandg3302/Dsa_Profile/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/anandg3302/Dsa_Profile/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/anandg3302/Dsa_Profile/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/anandg3302/Dsa_Profile/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/anandg3302/Dsa_Profile/tree/master/0054-spiral-matrix) |
@@ -250,6 +251,7 @@
 | [0012-integer-to-roman](https://github.com/anandg3302/Dsa_Profile/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/anandg3302/Dsa_Profile/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/anandg3302/Dsa_Profile/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/anandg3302/Dsa_Profile/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/anandg3302/Dsa_Profile/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/anandg3302/Dsa_Profile/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/anandg3302/Dsa_Profile/tree/master/0141-linked-list-cycle) |
@@ -292,6 +294,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/anandg3302/Dsa_Profile/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/anandg3302/Dsa_Profile/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anandg3302/Dsa_Profile/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/anandg3302/Dsa_Profile/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/anandg3302/Dsa_Profile/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/anandg3302/Dsa_Profile/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/anandg3302/Dsa_Profile/tree/master/0079-word-search) |
@@ -381,6 +384,7 @@
 | [0015-3sum](https://github.com/anandg3302/Dsa_Profile/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/anandg3302/Dsa_Profile/tree/master/0016-3sum-closest) |
 | [0047-permutations-ii](https://github.com/anandg3302/Dsa_Profile/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/anandg3302/Dsa_Profile/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/anandg3302/Dsa_Profile/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/anandg3302/Dsa_Profile/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/anandg3302/Dsa_Profile/tree/master/0169-majority-element) |
