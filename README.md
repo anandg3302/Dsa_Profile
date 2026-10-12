@@ -316,6 +316,7 @@
 | [0771-jewels-and-stones](https://github.com/anandg3302/Dsa_Profile/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/anandg3302/Dsa_Profile/tree/master/0796-rotate-string) |
 | [0925-long-pressed-name](https://github.com/anandg3302/Dsa_Profile/tree/master/0925-long-pressed-name) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/anandg3302/Dsa_Profile/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/anandg3302/Dsa_Profile/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anandg3302/Dsa_Profile/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/anandg3302/Dsa_Profile/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -531,6 +532,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/anandg3302/Dsa_Profile/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/anandg3302/Dsa_Profile/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/anandg3302/Dsa_Profile/tree/master/0150-evaluate-reverse-polish-notation) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/anandg3302/Dsa_Profile/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anandg3302/Dsa_Profile/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/anandg3302/Dsa_Profile/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## String Matching
