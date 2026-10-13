@@ -140,6 +140,7 @@
 | [0055-jump-game](https://github.com/anandg3302/Dsa_Profile/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/anandg3302/Dsa_Profile/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/anandg3302/Dsa_Profile/tree/master/0135-candy) |
+| [0402-remove-k-digits](https://github.com/anandg3302/Dsa_Profile/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/anandg3302/Dsa_Profile/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/anandg3302/Dsa_Profile/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/anandg3302/Dsa_Profile/tree/master/0455-assign-cookies) |
@@ -317,6 +318,7 @@
 | [0383-ransom-note](https://github.com/anandg3302/Dsa_Profile/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/anandg3302/Dsa_Profile/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/anandg3302/Dsa_Profile/tree/master/0392-is-subsequence) |
+| [0402-remove-k-digits](https://github.com/anandg3302/Dsa_Profile/tree/master/0402-remove-k-digits) |
 | [0415-add-strings](https://github.com/anandg3302/Dsa_Profile/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/anandg3302/Dsa_Profile/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/anandg3302/Dsa_Profile/tree/master/0443-string-compression) |
@@ -552,6 +554,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/anandg3302/Dsa_Profile/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/anandg3302/Dsa_Profile/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/anandg3302/Dsa_Profile/tree/master/0227-basic-calculator-ii) |
+| [0402-remove-k-digits](https://github.com/anandg3302/Dsa_Profile/tree/master/0402-remove-k-digits) |
 | [0844-backspace-string-compare](https://github.com/anandg3302/Dsa_Profile/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/anandg3302/Dsa_Profile/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anandg3302/Dsa_Profile/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -644,6 +647,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/anandg3302/Dsa_Profile/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/anandg3302/Dsa_Profile/tree/master/0402-remove-k-digits) |
 ## Z Algorithm
 |  |
 | ------- |
