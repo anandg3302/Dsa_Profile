@@ -343,6 +343,7 @@
 | [2423-remove-letter-to-equalize-frequency](https://github.com/anandg3302/Dsa_Profile/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2785-sort-vowels-in-a-string](https://github.com/anandg3302/Dsa_Profile/tree/master/2785-sort-vowels-in-a-string) |
 | [3136-valid-word](https://github.com/anandg3302/Dsa_Profile/tree/master/3136-valid-word) |
+| [3407-substring-matching-pattern](https://github.com/anandg3302/Dsa_Profile/tree/master/3407-substring-matching-pattern) |
 | [3612-process-string-with-special-operations-i](https://github.com/anandg3302/Dsa_Profile/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/anandg3302/Dsa_Profile/tree/master/3838-weighted-word-mapping) |
 ## Dynamic Programming
@@ -562,6 +563,7 @@
 | [0459-repeated-substring-pattern](https://github.com/anandg3302/Dsa_Profile/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/anandg3302/Dsa_Profile/tree/master/0796-rotate-string) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/anandg3302/Dsa_Profile/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [3407-substring-matching-pattern](https://github.com/anandg3302/Dsa_Profile/tree/master/3407-substring-matching-pattern) |
 ## Counting
 |  |
 | ------- |
